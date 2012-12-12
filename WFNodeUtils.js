@@ -1,6 +1,6 @@
 /**
  * WFNodeUtils JavaScript Library v1.0
- * http://sarveshspn.blogspot.com/
+ * http://sarveshspn.blogspot.in/2012/12/node-based-workflow-programming-in-html5.html
  * Copyright 2012, Sarvesh Navelkar
  * Licensed under the MIT or GPL Version 2 licenses.
  * Date: Dec 12 2012
